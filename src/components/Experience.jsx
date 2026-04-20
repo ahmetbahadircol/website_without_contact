@@ -6,9 +6,16 @@ import SpotlightCard from './SpotlightCard';
 
 const experiences = [
     {
+        company: "TMX Group",
+        role: "Full Stack Engineer",
+        period: "April 2026 - Present",
+        description: "Contributing to full stack development projects.",
+        icon: Briefcase
+    },
+    {
         company: "Mamamest",
         role: "Full Stack Engineer - Part Time",
-        period: "May 2025 - Present",
+        period: "May 2025 - April 2026",
         description: "Contributing to full stack development projects.",
         icon: Briefcase
     },
